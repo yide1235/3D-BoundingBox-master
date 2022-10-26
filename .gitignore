@@ -1,0 +1,16 @@
+*.weights
+*.pkl
+*.pyc
+*.swp
+*.cfg
+*.png
+*.jpg
+*.mp4
+Kitti/testing
+Kitti/training
+legacy
+.idea/
+.vscode/
+results/
+checkerboard/
+cred.txt
